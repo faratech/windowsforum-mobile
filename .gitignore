@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+
+# This monorepo ignores JSON globally; retain the prototype build contract.
+!/package.json
+!/package-lock.json
+!/tsconfig.json
+!/mobile-runtime.lock.json
+!/.openai/hosting.json
