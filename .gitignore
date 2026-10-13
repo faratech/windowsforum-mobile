@@ -9,3 +9,4 @@ playwright-report/
 !/tsconfig.json
 !/mobile-runtime.lock.json
 !/.openai/hosting.json
+qa/
